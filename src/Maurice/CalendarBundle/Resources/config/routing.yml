@@ -1,0 +1,3 @@
+maurice_calendar_homepage:
+    pattern: /agenda
+    defaults: { _controller: MauriceCalendarBundle:Default:index }

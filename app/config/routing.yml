@@ -1,0 +1,4 @@
+maurice_calendar:
+    resource: "@MauriceCalendarBundle/Resources/config/routing.yml"
+    prefix:   /
+

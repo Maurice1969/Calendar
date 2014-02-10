@@ -1,0 +1,7 @@
+parameters:
+#    maurice_calendar.example.class: Maurice\CalendarBundle\Example
+
+services:
+#    maurice_calendar.example:
+#        class: %maurice_calendar.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
